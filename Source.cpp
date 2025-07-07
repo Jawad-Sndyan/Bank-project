@@ -1238,7 +1238,7 @@ enUsers ReadManageUsersMenueOption(string message)
 } 
 void GoBackToManageUsersMenue() 
 {
-	cout << "\n\nPress any key to go back to Transactions Menue...";
+	cout << "\n\nPress any key to go back to Manage Users Menue Menue...";
 	system("pause>0");
 	ManageUsersProgram(); 
 }
